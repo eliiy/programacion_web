@@ -7,6 +7,34 @@ body {
 	line-height:1.4px;
 	font:16px helvetica; 
 }
+h1{
+	font-family: 'Caveat Brush', cursive;
+	text-shadow:5px 5px 4px #bd1bbd;
+
+}
+h2{
+	font-family: 'Caveat Brush', cursive;
+	font-family: 'Pangolin', cursive;
+	text-shadow:5px 5px 4px #1e5de6;
+	-moz-box-shadow: -5px -18px 8px #f2da24;
+	-webkit-box-shadow: -5px -18px 8px #f2da24;
+	box-shadow: -5px -18px 8px #f2da24;
+}
+h3{
+	font-family: 'Caveat Brush', cursive;
+	font-family: 'Pangolin', cursive;
+	font-family: 'Muli', sans-serif;
+	text-shadow:5px 5px 5px #15e60e;
+	-moz-box-shadow: -5px -18px 8px #f2da24;
+	-webkit-box-shadow: -5px -18px 8px #f2da24;
+	box-shadow: -5px -18px 8px #f2da24;
+}
+p{
+	font-family: 'Caveat Brush', cursive;
+font-family: 'Muli', sans-serif;
+font-family: 'Pangolin', cursive;
+font-family: 'Indie Flower', cursive;
+}
 hr{
 	display: block;
 	height:1px;
